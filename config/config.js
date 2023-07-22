@@ -71,6 +71,17 @@ export const projects = {
 	title: "Projects",
 	cards: [
 		{
+			title: "Natours",
+			description: "A Web application that can be used to book and review tours, It includes a secure API as its backend which can be accessed by multiple 3rd party organizations.                                     ",
+			icons: [
+
+				{
+					icon: faGithub,
+					link: "https://github.com/warmachine2939/Chat-App",
+				},
+			]
+		},
+		{
 			title: "Chat App",
 			description: "An application that can be used to chat with other users made using Kotlin and Firebase. It also uses firebase authentication to Login users.                                                       ",
 			icons: [
