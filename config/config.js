@@ -77,7 +77,11 @@ export const projects = {
 
 				{
 					icon: faGithub,
-					link: "https://github.com/warmachine2939/Chat-App",
+					link: "https://github.com/warmachine2939/natours",
+				},
+				{
+					icon:faGlobe,
+					link: "https://natours-india.onrender.com"
 				},
 			]
 		},
