@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://drive.google.com/file/d/1OXC3oOrXuhUN2a1s3hPdfEfYMTo2i2oJ/view?usp=sharing",
+			link: "https://drive.google.com/file/d/1hSoD8JGDhxTICIp4htWcHd2naY3kfqJa/view?usp=sharing",
 			isPrimary: false,
 		},
 	],
@@ -79,10 +79,10 @@ export const projects = {
 					icon: faGithub,
 					link: "https://github.com/warmachine2939/natours",
 				},
-				{
-					icon:faGlobe,
-					link: "https://natours-india.onrender.com"
-				},
+				// {
+				// 	icon: faLaptop,
+				// 	link: "https://natours-india.onrender.com"
+				// },
 			]
 		},
 		{
